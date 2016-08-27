@@ -1,0 +1,7 @@
+Hi, Dan!
+
+I'd love to see how you'd do this: creating the cool graphics in Prof. Frank Farris' book Creating Symmetry. He takes a grid, multiplies the points by some complex function, then every point is transformed to somewhere else Then he sees the color of that new pixel in a picture he took, and colors the original point that color. It's like kaleidoscopic images! 
+
+He doesn't give much help with coding the process. I found some help here: http://www.ams.org/notices/201511/rnoti-p1350.pdf
+
+Peter Farrell
